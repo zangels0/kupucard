@@ -12,7 +12,7 @@ This package is a fun fork of musicard with some radical new features 🌈 for m
 
 ## Usage
 
-Generate a quartz card like normal:
+Generate a kupumalam card like normal:
 
 ```js
 (async () => {
@@ -23,7 +23,7 @@ Generate a quartz card like normal:
         .setName("Aduh")
         .setAuthor("Maliq & D'Essentials")
         .setColor("auto")
-        .setTheme("quartz+")
+        .setTheme("kupumalam")
         .setBrightness(50)
         .setThumbnail("https://cdn.discordapp.com/attachments/1198220352963219456/1202316791351615548/index.jpg?ex=65cd03c5&is=65ba8ec5&hm=d5229d21023379c157e7e9bfa7d0258e6bcf7d7727a2381d133d51d3498bd3bf&")
         .setProgress(10)
@@ -39,13 +39,13 @@ Generate a quartz card like normal:
 
 Here's a preview:
 
-This is the **quartz+** output of musicCard. 
+This is the **kupumalam** output of musicCard. 
 ![quartz+](https://i.imgur.com/Ej0fR2G.png)
 
-This is the **onepiece+** output of musicCard. 
+This is the **kupuonepiece** output of musicCard. 
 ![onepiece+](https://i.imgur.com/W1aKxlA.png)
 
-This is the **vector+** output of musicCard. 
+This is the **kupuvector** output of musicCard. 
 ![onepiece+](https://i.imgur.com/L5lfCTQ.png)
 
 
