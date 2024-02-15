@@ -1,0 +1,53 @@
+{
+  "name": "kupucard",
+  "version": "1.0.0",
+  "description": "Discord music bot module, with aesthetic features. equipped with a music card that is different from the others.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "publish": "npm publish --access private",
+    "test": "node example/test"
+  },
+  "files": [
+    "build",
+    "res"
+  ],
+  "keywords": [
+    "music-card",
+    "kupu-card",
+    "discord-music-card",
+    "music-card-discord",
+    "discord.js",
+    "spotify",
+    "deezercanvas",
+    "youtube",
+    "image",
+    "node-canvas",
+    "canvas-constructor",
+    "discord",
+    "discord-canvas",
+    "discord-canvas-music-card",
+    "discord-canvas-music"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
+    "color-thief-bun": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "directories": {
+    "example": "example"
+  }
+}
