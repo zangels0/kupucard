@@ -5,7 +5,6 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
-    "publish": "npm publish --access private",
     "test": "node example/test"
   },
   "files": [
