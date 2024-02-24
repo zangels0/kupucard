@@ -1,4 +1,4 @@
-this.progress = progress;
+//this.progress = progress;
 const canvas = require("@napi-rs/canvas");
 const { colorFetch } = require("../functions/colorFetch");
 
